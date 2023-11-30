@@ -1,6 +1,6 @@
 # HK.3_short
 
-A supplemental table for the GISAID EPI_SET_231110rt and EPI_SET_231111fo datasets used in the following study.
+A supplemental table for the GISAID datasets used in the following study.
 
 Original manuscript (bioRxiv)
 
