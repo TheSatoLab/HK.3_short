@@ -1,4 +1,4 @@
-# HK.3_short
+# Characteristics of the SARS-CoV-2 omicron HK.3 variant harbouring the FLip substitution
 
 The supplemental tables for the GISAID datasets used in the following studies.
 
